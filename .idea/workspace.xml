@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a80a4c09-e9ad-4834-9c0e-027e092cbef4" name="Default Changelist" comment="" />
+    <list default="true" id="a80a4c09-e9ad-4834-9c0e-027e092cbef4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lamirandcyril/model/SpecialNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lamirandcyril/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +23,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="A name &lt;cyril.lamirand77590@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1V0RZi4AVQEBVEDHjbyXosN1QZQ" />
   <component name="ProjectViewState">
@@ -24,6 +38,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Presentation Assistant" />
@@ -71,6 +86,7 @@
       <workItem from="1576391162302" duration="587000" />
       <workItem from="1576398126404" duration="551000" />
       <workItem from="1576402677185" duration="523000" />
+      <workItem from="1576405139106" duration="1428000" />
     </task>
     <servers />
   </component>
@@ -82,51 +98,49 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="79" y="178" width="816" height="732" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1576398448463" />
+    <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1576406224948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576406224948" />
+    <state x="118" y="114" key="CommitChangelistDialog2" timestamp="1576406619438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="118" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576406619438" />
     <state x="368" y="260" key="FileChooserDialogImpl" timestamp="1576391012751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="368" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576391012751" />
-    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1576398676876">
+    <state width="916" height="275" key="GridCell.Tab.0.bottom" timestamp="1576406482462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576398676876" />
-    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1576398676876">
+    <state width="916" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576406482462" />
+    <state width="916" height="275" key="GridCell.Tab.0.center" timestamp="1576406482461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576398676876" />
-    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1576398676876">
+    <state width="916" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576406482461" />
+    <state width="916" height="275" key="GridCell.Tab.0.left" timestamp="1576406482461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576398676876" />
-    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1576398676876">
+    <state width="916" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576406482461" />
+    <state width="916" height="275" key="GridCell.Tab.0.right" timestamp="1576406482462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576398676876" />
+    <state width="916" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576406482462" />
     <state x="97" y="148" key="SettingsEditor" timestamp="1576391469993">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="97" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576391469993" />
+    <state x="80" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576406643352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="80" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576406643352" />
     <state x="401" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1576402678260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="401" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576402678260" />
-    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1576388354623">
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1576405453782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576388354623" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/lamirandcyril/Main.java</url>
-          <line>6</line>
-          <properties class="com.lamirandcyril.Main" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576405453782" />
   </component>
 </project>
