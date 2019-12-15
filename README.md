@@ -4,11 +4,11 @@
 <p>Module : <b>Développement Application Android par D. <i>BESSON</i>.</b></p>
 <h1>MY IDE</h1>
 <p>🔹 Windows 10 Professional</p>
-<p>🔸 Chocolatey (equal of HomeBrew on macOS).</p>
+<p>🔸 Chocolatey (equal of HomeBrew on macOS): <a href="https://chocolatey.org/install">Chocolatey</a>.</p>
 <p>🔹 Windows Powershell.</p>
-<p>🔸 IntelliJ IDEA by JetBrains (with student license).</p>
-<p>🔹 GitHub Desktop.</p>
-<p>🔸 OpenJDK : <a href="https://jdk.java.net/13/">OpenJDK-Java 13</a></p>
+<p>🔸 IntelliJ IDEA by JetBrains (with student license) : <a href="https://www.jetbrains.com/fr-fr/idea/documentation/">IntelliJ IDEA</a>.</p>
+<p>🔹 GitHub Desktop : <a href="https://desktop.github.com/">Github Desktop</a>.</p>
+<p>🔸 OpenJDK : <a href="https://jdk.java.net/13/">OpenJDK-Java 13</a>.</p>
 <h1>SCREENSHOTS</h1>
 <h3>GitHub repository</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG">
@@ -25,5 +25,5 @@
 <p>This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.</p>
 <p>This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.</p>
 <p>You should have received a copy Of the GNU General Public License along with this program.</p> 
-<p>If Not, see http://www.gnu.org/licenses/.</p>
+<p>If Not, see <a href="http://www.gnu.org/licenses/">GNU - Licenses</a>.</p>
  <h6>IntelliJ IDEA - Java OPENJDK (13.0.1) Application</h6>
