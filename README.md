@@ -9,11 +9,11 @@
 <p>🔸 GitHub Desktop.</p>
 <h1>SCREENSHOTS</h1>
 <h5>GitHub repository</h5>
-![alt text](https://raw.githubusercontent.com/Alevhovic/SuperSimon/master/screenshot_1.PNG)
+![alt text](https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG)
 <h5>Windows Powershell with Chocolatey</h5>
-![alt text](https://raw.githubusercontent.com/Alevhovic/SuperSimon/master/screenshot_2.PNG)
+![alt text](https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen2.PNG)
 <h5>IntelliJ IDEA</h5>
-![alt text](https://raw.githubusercontent.com/Alevhovic/SuperSimon/master/screenshot_3.PNG)
+![alt text](https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen3.PNG)
 
 <h1>INTELLIJ WITH KEYMAP</h1>
 
