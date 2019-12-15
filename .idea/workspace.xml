@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a80a4c09-e9ad-4834-9c0e-027e092cbef4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lamirandcyril/model/RandomNumber.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_screen1.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_screen2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_screen3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/model/SpecialNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/model/SpecialNum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -32,18 +34,22 @@
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1V0RZi4AVQEBVEDHjbyXosN1QZQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Presentation Assistant" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.com.lamirandcyril.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.lamirandcyril.Main" />
       <module name="my-app" />
@@ -54,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.lamirandcyril.Main" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="my-app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lamirandcyril.Main" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.lamirandcyril.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -86,7 +106,7 @@
       <workItem from="1576391162302" duration="587000" />
       <workItem from="1576398126404" duration="551000" />
       <workItem from="1576402677185" duration="523000" />
-      <workItem from="1576405139106" duration="1898000" />
+      <workItem from="1576405139106" duration="3463000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.2">
       <created>1576406620301</created>
@@ -109,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576407028288</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update README.md">
+      <created>1576407066186</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576407066186</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,10 +148,12 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1.0.2" />
     <MESSAGE value="Update README.me" />
     <MESSAGE value="Added Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Kotlin" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="79" y="178" width="816" height="732" key="#Intentions" timestamp="1576398448463">
@@ -135,6 +164,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576406224948" />
+    <state x="210" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576408351633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="210" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576408351633" />
     <state x="118" y="114" key="CommitChangelistDialog2" timestamp="1576407065344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -143,26 +176,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="368" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576391012751" />
-    <state width="916" height="275" key="GridCell.Tab.0.bottom" timestamp="1576406482462">
+    <state width="916" height="351" key="GridCell.Tab.0.bottom" timestamp="1576408606274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576406482462" />
-    <state width="916" height="275" key="GridCell.Tab.0.center" timestamp="1576406482461">
+    <state width="916" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
+    <state width="916" height="351" key="GridCell.Tab.0.center" timestamp="1576408606274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576406482461" />
-    <state width="916" height="275" key="GridCell.Tab.0.left" timestamp="1576406482461">
+    <state width="916" height="351" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
+    <state width="916" height="351" key="GridCell.Tab.0.left" timestamp="1576408606274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576406482461" />
-    <state width="916" height="275" key="GridCell.Tab.0.right" timestamp="1576406482462">
+    <state width="916" height="351" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
+    <state width="916" height="351" key="GridCell.Tab.0.right" timestamp="1576408606274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576406482462" />
+    <state width="916" height="351" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
+    <state width="916" height="351" key="GridCell.Tab.1.bottom" timestamp="1576408606274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
+    <state width="916" height="351" key="GridCell.Tab.1.center" timestamp="1576408606274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="351" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
+    <state width="916" height="351" key="GridCell.Tab.1.left" timestamp="1576408606274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="351" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
+    <state width="916" height="351" key="GridCell.Tab.1.right" timestamp="1576408606274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="351" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
     <state x="97" y="148" key="SettingsEditor" timestamp="1576391469993">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="97" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576391469993" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1576408162004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1576408162004" />
     <state x="80" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576407105496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -171,9 +224,27 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="401" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576402678260" />
+    <state x="684" y="311" key="git4idea.merge.GitPullDialog" timestamp="1576407270780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576407270780" />
     <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1576405453782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576405453782" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/com/lamirandcyril/Main.kt</url>
+          <line>6</line>
+          <properties class="com.lamirandcyril.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
