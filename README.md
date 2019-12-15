@@ -1,3 +1,9 @@
+<html>
+<body> 
+ <h1>Hello, World !</h1>
+</body>
+</html>
+
 # Description
 <hr>
 The main goal of this project, it's to <i>create a JAVA application with IntelliJ IDEA by JetBrains</i>.
