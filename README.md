@@ -8,6 +8,7 @@
 <p>🔹 Windows Powershell.</p>
 <p>🔸 IntelliJ IDEA by JetBrains (with student license).</p>
 <p>🔹 GitHub Desktop.</p>
+<p>🔸 OpenJDK : <a href="https://jdk.java.net/13/">OpenJDK-Java 13</a></p>
 <h1>SCREENSHOTS</h1>
 <h3>GitHub repository</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG">
