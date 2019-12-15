@@ -3,8 +3,9 @@
 <p>School project for : <b>Institut de l'Internet et du Multimédia.</b></p>
 <p>Module : <b>Développement Application Android par D. <i>BESSON</i>.</b></p>
 <h1>MY IDE</h1>
-<p>🔹 Windows Powershell.</p>
+<p>🔹 Windows 10 Professional</p>
 <p>🔸 Chocolatey (equal of HomeBrew on macOS).</p>
+<p>🔹 Windows Powershell.</p>
 <p>🔹 IntelliJ IDEA by JetBrains (with student license).</p>
 <p>🔸 GitHub Desktop.</p>
 <h1>SCREENSHOTS</h1>
