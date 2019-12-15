@@ -8,7 +8,11 @@ Module : <b>Développement Application Android par D. <i>BESSON</i>.</b>
 
 # IDE
 
-- <span style="color:royalblue">Windows Powershell</span>.
-- Chocolatey (equal of HomeBrew on macOS).
-- 
+🔹 <div class="text-blue mb-2">
+  Windows Powershell
+   </div>
+🔸 Chocolatey (equal of HomeBrew on macOS).
+🔹 IntelliJ IDEA by JetBrains (with student license).
+🔸 
+
  IntelliJ IDEA - Java OPENJDK (13.0.1) Application
