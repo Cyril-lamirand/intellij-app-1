@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a80a4c09-e9ad-4834-9c0e-027e092cbef4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamirandcyril/model/SpecialNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lamirandcyril/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_screen1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_screen2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_screen3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,12 +86,45 @@
       <workItem from="1576391162302" duration="587000" />
       <workItem from="1576398126404" duration="551000" />
       <workItem from="1576402677185" duration="523000" />
-      <workItem from="1576405139106" duration="1428000" />
+      <workItem from="1576405139106" duration="1898000" />
     </task>
+    <task id="LOCAL-00001" summary="1.0.2">
+      <created>1576406620301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576406620301</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update README.me">
+      <created>1576406723327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576406723327</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Kotlin">
+      <created>1576407028288</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576407028288</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="1.0.2" />
+    <MESSAGE value="Update README.me" />
+    <MESSAGE value="Added Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Kotlin" />
   </component>
   <component name="WindowStateProjectService">
     <state x="79" y="178" width="816" height="732" key="#Intentions" timestamp="1576398448463">
@@ -102,10 +135,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576406224948" />
-    <state x="118" y="114" key="CommitChangelistDialog2" timestamp="1576406619438">
+    <state x="118" y="114" key="CommitChangelistDialog2" timestamp="1576407065344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="118" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576406619438" />
+    <state x="118" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576407065344" />
     <state x="368" y="260" key="FileChooserDialogImpl" timestamp="1576391012751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -130,10 +163,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="97" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576391469993" />
-    <state x="80" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576406643352">
+    <state x="80" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576407105496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="80" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576406643352" />
+    <state x="80" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576407105496" />
     <state x="401" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1576402678260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
