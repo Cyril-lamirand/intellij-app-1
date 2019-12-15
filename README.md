@@ -17,6 +17,11 @@
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG">
 <h1>INTELLIJ WITH KEYMAP</h1>
 
-
-
- IntelliJ IDEA - Java OPENJDK (13.0.1) Application
+<h1>Legal</h1>
+<h3>License</h3>
+<p><b>intellij-app-1</b> - <i>School project with IntelliJ IDEA by JetBrains.</i></p>
+<p><b><i>Copyright</i> (C)</b> 2019-2023 <b>LAMIRAND Cyril</b></p>
+<p>This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.</p>
+<p>This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.</p>
+<p>You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.</p>
+ <h6>IntelliJ IDEA - Java OPENJDK (13.0.1) Application</h6>
