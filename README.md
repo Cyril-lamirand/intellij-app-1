@@ -9,7 +9,7 @@ Module : <b>Développement Application Android par D. <i>BESSON</i>.</b>
 # IDE
 
 <div class="text-blue mb-2">
-  🔹 Windows Powershell
+  🔹 .Windows Powershell
 </div>
 🔸 Chocolatey (equal of HomeBrew on macOS).
 🔹 IntelliJ IDEA by JetBrains (with student license).
