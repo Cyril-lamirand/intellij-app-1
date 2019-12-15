@@ -1,5 +1,5 @@
 <h1>DESCRIPTION</h1>
-<p>The main goal of this project, it's to <i>create a JAVA application with IntelliJ IDEA by JetBrains</i>.</p>
+<p>The main goal of this project, it's to create a <i>JAVA application with IntelliJ IDEA by JetBrains</i>.</p>
 <p>School project for : <b>Institut de l'Internet et du Multimédia.</b></p>
 <p>Module : <b>Développement Application Android par D. <i>BESSON</i>.</b></p>
 <h1>MY IDE</h1>
