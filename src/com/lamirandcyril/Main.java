@@ -1,6 +1,9 @@
 package com.lamirandcyril;
 
 import com.lamirandcyril.model.Product;
+import com.lamirandcyril.model.SpecialNum;
+
+import java.util.Random;
 
 public class Main {
 
@@ -9,14 +12,8 @@ public class Main {
         System.out.println("Hello World !");
         Product product = new Product("Keyboard");
         System.out.println(product.getName());
-        number();
-    }
-
-    public static void number() {
-
-        double randomNumber = Math.random();
-        String randomNumber2 = String.valueOf(Math.round(randomNumber));
-        System.out.println(randomNumber2);
+        SpecialNum specialnum = new SpecialNum();
+        System.out.println(specialnum.getRoundNumber());
 
     }
 }

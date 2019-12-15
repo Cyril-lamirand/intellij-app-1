@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V0RZi4AVQEBVEDHjbyXosN1QZQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -67,6 +70,7 @@
       <workItem from="1576388090712" duration="3040000" />
       <workItem from="1576391162302" duration="587000" />
       <workItem from="1576398126404" duration="551000" />
+      <workItem from="1576402677185" duration="523000" />
     </task>
     <servers />
   </component>
@@ -102,10 +106,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="97" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576391469993" />
-    <state x="401" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1576391163350">
+    <state x="401" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1576402678260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="401" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576391163350" />
+    <state x="401" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576402678260" />
     <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1576388354623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
