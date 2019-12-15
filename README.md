@@ -6,8 +6,8 @@
 <p>🔹 Windows 10 Professional</p>
 <p>🔸 Chocolatey (equal of HomeBrew on macOS).</p>
 <p>🔹 Windows Powershell.</p>
-<p>🔹 IntelliJ IDEA by JetBrains (with student license).</p>
-<p>🔸 GitHub Desktop.</p>
+<p>🔸 IntelliJ IDEA by JetBrains (with student license).</p>
+<p>🔹 GitHub Desktop.</p>
 <h1>SCREENSHOTS</h1>
 <h5>GitHub repository</h5>
 ![Image description](https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG)
