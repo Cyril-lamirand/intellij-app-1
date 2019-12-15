@@ -11,11 +11,11 @@
 <p>🔸 OpenJDK : <a href="https://jdk.java.net/13/">OpenJDK-Java 13</a>.</p>
 <h1>SCREENSHOTS</h1>
 <h3>GitHub repository</h3>
-<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG">
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen1.PNG">
 <h3>Windows Powershell with Chocolatey</h3>
-<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen2.PNG">
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen2.PNG">
 <h3>IntelliJ IDEA</h3>
-<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG">
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen1.PNG">
 <h1>INTELLIJ WITH KEYMAP</h1>
 
 <h1>Legal</h1>
