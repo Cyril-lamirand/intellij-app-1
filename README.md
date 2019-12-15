@@ -15,7 +15,7 @@
 <h3>Windows Powershell with Chocolatey</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen2.PNG">
 <h3>IntelliJ IDEA</h3>
-<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen1.PNG">
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen3.PNG">
 <h1>INTELLIJ WITH KEYMAP</h1>
 
 <h1>Legal</h1>
