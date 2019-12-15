@@ -10,7 +10,7 @@
 <p>🔹 GitHub Desktop.</p>
 <h1>SCREENSHOTS</h1>
 <h5>GitHub repository</h5>
-![Image description](https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG)
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen1.PNG">
 <h5>Windows Powershell with Chocolatey</h5>
 ![Image description](https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/git_screen2.PNG)
 <h5>IntelliJ IDEA</h5>
