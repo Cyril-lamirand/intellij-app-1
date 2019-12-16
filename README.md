@@ -17,8 +17,9 @@
 <h3>Windows Powershell with Chocolatey</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen2.PNG">
 <h3>IntelliJ IDEA</h3>
-<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen3.PNG">
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen5.PNG">
 <h3>Import my repository from GitHub to IntelliJ</h3>
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen3.PNG">
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen4.PNG">
 <h3>Code "Main.kt"</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen7.PNG">
