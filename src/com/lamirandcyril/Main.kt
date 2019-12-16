@@ -1,11 +1,29 @@
 package com.lamirandcyril
 
-import kotlin.random.Random
+import com.lamirandcyril.model.Game
+import java.util.*
 
-object Main {
+
+object
+Main {
     @JvmStatic
     fun main(args: Array<String>) {
-        // write your code here
-        println("Hello World !")
+
+        val obj: Game = Game()
+        val minVal = 1
+        val maxVal = 10
+        val input = obj.input()
+        val rand = obj.choose(minVal,maxVal)
+        var count: Int = 0
+        var user: Int
+
+        obj.header(minVal,maxVal)
+
+        do {
+            count++
+            obj.message("input", "Try a number (Next line)")
+            user = input.nextInt()
+            obj.tryNumber(user,rand,count)
+        } while(user != rand)
     }
 }
