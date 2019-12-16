@@ -8,13 +8,13 @@ class Game {
 
     }
 
-    fun header(minVal: Int, maxVal: Int) {
+    fun header() {
         println("[STARTING] Run : IntelliJ-APP-1")
         this.message("dialog","---------------- ----------------------- ------------------")
         this.message("dialog","---------------- ---[FIND THE NUMBER]--- ------------------")
         this.message("dialog","---------------- ----------------------- ------------------")
-        this.message("dialog","Computer : I'm thinking about a number between $minVal and $maxVal...")
-        this.message("dialog","Computer : Let's start the game !")
+        //this.message("dialog","Computer : I'm thinking about a number between $minVal and $maxVal...")
+        //this.message("dialog","Computer : Let's start the game !")
     }
 
     fun tryNumber(user: Int, rand: Int, count: Int) {
