@@ -35,7 +35,6 @@ class Game {
         // this.message("debug","Number is choose !")
         return random.nextInt(minVal, maxVal)
     }
-
     fun message(type: String, text: String) {
         if (type == "debug") {
             println("[DEBUG] $text")
@@ -54,5 +53,4 @@ class Game {
         val read = Scanner(System.`in`)
         return read
     }
-
 }

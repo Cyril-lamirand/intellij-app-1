@@ -2,6 +2,7 @@
 <p>The <b>main objective</b> of this project is to create a <i>JAVA</i> application with <i>IntelliJ IDEA</i> by <b>JetBrains</b>.</p>
 <p>School project for : <b>Institut de l'Internet et du Multimédia.</b></p>
 <p>Module : <b>Développement Application Android par D. <i>BESSON</i>.</b></p>
+<p>Exercice : Create a "Number guessing" game.</p>
 <h1>MY IDE</h1>
 <p>🔹 Windows 10 Professional</p>
 <p>🔸 Chocolatey (equal of HomeBrew on macOS): <a href="https://chocolatey.org/install">Chocolatey</a>.</p>
@@ -9,6 +10,7 @@
 <p>🔸 IntelliJ IDEA by JetBrains (with student license) : <a href="https://www.jetbrains.com/fr-fr/idea/documentation/">IntelliJ IDEA</a>.</p>
 <p>🔹 GitHub Desktop : <a href="https://desktop.github.com/">Github Desktop</a>.</p>
 <p>🔸 OpenJDK : <a href="https://jdk.java.net/13/">OpenJDK-Java 13</a>.</p>
+<p>🔹 Kotlin : <a href="https://kotlinlang.org/docs/reference/">Kotlin Documentation</a></p>
 <h1>SCREENSHOTS</h1>
 <h3>GitHub repository</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen1.PNG">
@@ -16,8 +18,14 @@
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen2.PNG">
 <h3>IntelliJ IDEA</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen3.PNG">
-<h3>A "visual" of the game</h3>
+<h3>Import my repository from GitHub to IntelliJ</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen5.PNG">
+<h3>Code "Main.kt"</h3>
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen7.PNG">
+<h3>Kotlin Class with methods "Game.kt"</h3>
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen8.PNG">
+<h3>A "visual" of the game</h3>
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen6.PNG">
 <h1>Legal</h1>
 <h3>License</h3>
 <p><b>intellij-app-1</b> - <i>School project with IntelliJ IDEA by JetBrains.</i></p>
