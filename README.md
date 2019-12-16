@@ -16,8 +16,8 @@
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen2.PNG">
 <h3>IntelliJ IDEA</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen3.PNG">
-<h1>INTELLIJ WITH KEYMAP</h1>
-
+<h3>A "visual" of the game</h3>
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen5.PNG">
 <h1>Legal</h1>
 <h3>License</h3>
 <p><b>intellij-app-1</b> - <i>School project with IntelliJ IDEA by JetBrains.</i></p>

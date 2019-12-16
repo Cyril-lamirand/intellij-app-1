@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a80a4c09-e9ad-4834-9c0e-027e092cbef4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/screens/git_screen6.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-app/META-INF/my-app.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-app/META-INF/my-app.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/model/RandomNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/model/RandomNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lamirandcyril/model/Game.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +119,7 @@
       <workItem from="1576405139106" duration="3463000" />
       <workItem from="1576408638081" duration="156000" />
       <workItem from="1576409552011" duration="2541000" />
-      <workItem from="1576449518282" duration="15941000" />
+      <workItem from="1576449518282" duration="16346000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.2">
       <created>1576406620301</created>
@@ -152,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576407066186</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update Game.kt">
+      <created>1576479943128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576479943128</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +173,8 @@
     <MESSAGE value="Update README.me" />
     <MESSAGE value="Added Kotlin" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Update Game.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Game.kt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="79" y="178" width="816" height="732" key="#Intentions" timestamp="1576398448463">
@@ -192,22 +197,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="368" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576391012751" />
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1576479894893">
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom" timestamp="1576480244160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576479894893" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1576479894893">
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576480244160" />
+    <state width="1877" height="314" key="GridCell.Tab.0.center" timestamp="1576480244160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576479894893" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1576479894892">
+    <state width="1877" height="314" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576480244160" />
+    <state width="1877" height="314" key="GridCell.Tab.0.left" timestamp="1576480244160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576479894892" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1576479894893">
+    <state width="1877" height="314" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576480244160" />
+    <state width="1877" height="314" key="GridCell.Tab.0.right" timestamp="1576480244160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576479894893" />
+    <state width="1877" height="314" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576480244160" />
     <state width="916" height="351" key="GridCell.Tab.1.bottom" timestamp="1576408606274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
