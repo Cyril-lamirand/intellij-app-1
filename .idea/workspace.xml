@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a80a4c09-e9ad-4834-9c0e-027e092cbef4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/lamirandcyril/model/RandomNumber.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-app/META-INF/my-app.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-app/META-INF/my-app.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/model/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/model/SpecialNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-app/com/lamirandcyril/model/RandomNumber.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lamirandcyril/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/model/SpecialNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lamirandcyril/model/RandomNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lamirandcyril/model/Game.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +19,7 @@
       <list>
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -73,9 +72,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.lamirandcyril.model.TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="my-app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lamirandcyril.model.TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.com.lamirandcyril.Main" />
+        <item itemvalue="Kotlin.com.lamirandcyril.model.TestKt" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -107,6 +120,9 @@
       <workItem from="1576398126404" duration="551000" />
       <workItem from="1576402677185" duration="523000" />
       <workItem from="1576405139106" duration="3463000" />
+      <workItem from="1576408638081" duration="156000" />
+      <workItem from="1576409552011" duration="2541000" />
+      <workItem from="1576449518282" duration="15941000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.2">
       <created>1576406620301</created>
@@ -160,38 +176,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="79" y="178" width="816" height="732" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1576398448463" />
-    <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1576406224948">
+    <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1576472537360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576406224948" />
+    <state x="293" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576472537360" />
     <state x="210" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576408351633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="210" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576408351633" />
-    <state x="118" y="114" key="CommitChangelistDialog2" timestamp="1576407065344">
+    <state x="118" y="114" key="CommitChangelistDialog2" timestamp="1576479942234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="118" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576407065344" />
+    <state x="118" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576479942234" />
     <state x="368" y="260" key="FileChooserDialogImpl" timestamp="1576391012751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="368" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576391012751" />
-    <state width="916" height="351" key="GridCell.Tab.0.bottom" timestamp="1576408606274">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1576479894893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
-    <state width="916" height="351" key="GridCell.Tab.0.center" timestamp="1576408606274">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576479894893" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1576479894893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="351" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
-    <state width="916" height="351" key="GridCell.Tab.0.left" timestamp="1576408606274">
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576479894893" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1576479894892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="351" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
-    <state width="916" height="351" key="GridCell.Tab.0.right" timestamp="1576408606274">
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576479894892" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1576479894893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="351" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576408606274" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576479894893" />
     <state width="916" height="351" key="GridCell.Tab.1.bottom" timestamp="1576408606274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -216,33 +232,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1576408162004" />
-    <state x="80" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576407105496">
+    <state x="80" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576480008698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="80" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576407105496" />
-    <state x="401" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1576402678260">
+    <state x="80" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576480008698" />
+    <state x="401" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1576449539253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="401" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576402678260" />
+    <state x="401" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576449539253" />
     <state x="684" y="311" key="git4idea.merge.GitPullDialog" timestamp="1576407270780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="684" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576407270780" />
-    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1576405453782">
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1576466112384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576405453782" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576466112384" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/com/lamirandcyril/Main.kt</url>
-          <line>6</line>
+          <line>9</line>
           <properties class="com.lamirandcyril.Main" method="main">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
