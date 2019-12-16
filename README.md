@@ -2,7 +2,7 @@
 <p>The <b>main objective</b> of this project is to create a <i>JAVA</i> application with <i>IntelliJ IDEA</i> by <b>JetBrains</b>.</p>
 <p>School project for : <b>Institut de l'Internet et du Multimédia.</b></p>
 <p>Module : <b>Développement Application Android par D. <i>BESSON</i>.</b></p>
-<p>Exercice : Create a "Number guessing" game.</p>
+<p>Exercice : <i>Create a "<b>Number guessing</b>" game.</i></p>
 <h1>MY IDE</h1>
 <p>🔹 Windows 10 Professional</p>
 <p>🔸 Chocolatey (equal of HomeBrew on macOS): <a href="https://chocolatey.org/install">Chocolatey</a>.</p>
@@ -29,14 +29,6 @@
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen6.PNG">
 <h1>Legal</h1>
 <h3>License</h3>
-<span class="badge badge-primary">Primary</span>
-<span class="badge badge-secondary">Secondary</span>
-<span class="badge badge-success">Success</span>
-<span class="badge badge-danger">Danger</span>
-<span class="badge badge-warning">Warning</span>
-<span class="badge badge-info">Info</span>
-<span class="badge badge-light">Light</span>
-<span class="badge badge-dark">Dark</span>
 <p><b>intellij-app-1</b> - <i>School project with IntelliJ IDEA by JetBrains.</i></p>
 <p><b><i>Copyright</i> (C)</b> 2019-2023 <b>LAMIRAND Cyril</b></p>
 <p>This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.</p>
