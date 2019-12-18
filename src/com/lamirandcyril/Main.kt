@@ -2,7 +2,7 @@ package com.lamirandcyril
 
 import com.lamirandcyril.model.Game
 import java.util.*
-import kotlin.io.readLine
+
 
 object
 Main {
@@ -15,6 +15,7 @@ Main {
 
         obj.header()
         obj.message("dialog","Choose your gamemode, press [1] 2 Players or [2] Solo ")
+        obj.message("input","Gamemode : ")
         gm = obj.input().nextInt()
         case = gm
 
@@ -40,7 +41,7 @@ Main {
         obj.message("dialog","[GAME START] It's your turn now !")
         do {
             count++
-            obj.message("input", "Try a number (Next line)")
+            obj.message("input", "Try a number : ")
             user = input.nextInt()
             obj.tryNumber(user,rand,count)
         } while(user != rand)
@@ -50,18 +51,21 @@ Main {
 
         val obj = Game()
         val reader = obj.input()
-
-        var player1: Int
+        val player1: Int
         var player2: Int
         var count: Int = 0
 
         obj.message("dialog","[Player-1] Write a number between 1 and 100")
+        val reader2 = Scanner(System.`in`)
+        print("Enter a number: ")
+        var integer:Int = reader2.nextInt()
+        // println("You entered: $integer")
+        player1 = integer
 
-        player1 = reader.nextInt()
         obj.message("dialog","[Player-1] Thank you, it's Player 2 turn now.")
         do {
             count++
-            obj.message("input", "[Player-2] Try a number (Next line)")
+            obj.message("input", "[Player-2] Try a number : ")
             player2 = reader.nextInt()
             when {
                 player2 > player1 -> obj.message("result","It's less !")

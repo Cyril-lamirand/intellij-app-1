@@ -43,7 +43,7 @@ class Game {
         } else if (type == "result") {
             println("[RESULT] $text")
         }else if (type == "input") {
-            println("[INPUT] $text")
+            print("[INPUT] $text")
         } else {
             println("[ERROR] Something Wrong !")
         }
