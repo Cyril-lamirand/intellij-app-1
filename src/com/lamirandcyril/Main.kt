@@ -10,7 +10,6 @@ Main {
     fun main(args: Array<String>) {
 
         val obj: Game = Game()
-
         var gm: Int
         var case: Int
 
@@ -26,7 +25,7 @@ Main {
         }
     }
 
-    fun Machine() {
+    private fun Machine() {
 
         val obj = Game()
         val minVal = 1
@@ -47,11 +46,10 @@ Main {
         } while(user != rand)
     }
 
-    fun Players() {
+    private fun Players() {
 
         val obj = Game()
         val reader = obj.input()
-        val numberToFind: Int
 
         var player1: Int
         var player2: Int
@@ -61,7 +59,6 @@ Main {
 
         player1 = reader.nextInt()
         obj.message("dialog","[Player-1] Thank you, it's Player 2 turn now.")
-        numberToFind = player1
         do {
             count++
             obj.message("input", "[Player-2] Try a number (Next line)")
