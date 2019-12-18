@@ -12,6 +12,8 @@
 <p>🔸 OpenJDK : <a href="https://jdk.java.net/13/">OpenJDK-Java 13</a>.</p>
 <p>🔹 Kotlin : <a href="https://kotlinlang.org/docs/reference/">Kotlin Documentation</a></p>
 <h1>SCREENSHOTS</h1>
+<h3>Exercice</h3>
+<image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen9.PNG">
 <h3>GitHub repository</h3>
 <image src="https://raw.githubusercontent.com/Alevhovic/intellij-app-1/master/screens/git_screen1.PNG">
 <h3>Windows Powershell with Chocolatey</h3>
