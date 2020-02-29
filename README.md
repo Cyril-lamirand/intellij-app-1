@@ -1,7 +1,6 @@
 <h1>DESCRIPTION</h1>
 <p>The <b>main objective</b> of this project is to create a <i>JAVA</i> application with <i>IntelliJ IDEA</i> by <b>JetBrains</b>.</p>
 <p>School project for : <b>Institut de l'Internet et du Multimédia.</b></p>
-<p>Module : <b>Développement Application Android par D. <i>BESSON</i>.</b></p>
 <p>Exercice : <i>Create a "<b>Number guessing</b>" game.</i></p>
 <h1>MY IDE</h1>
 <p>🔹 Windows 10 Professional</p>
